@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="d38eeb0e-adbd-47dd-9b24-4ba0efd479ba" ChangeDateTime="11/12/2021 22:20:28" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Mensaje].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Mensaje]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdRegistro" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="72c997d3-44e4-4a6a-8fb4-0cd100092f82" ChangeDateTime="11/12/2021 22:23:45" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Auxiliar].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Auxiliar]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Asunto" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="956b7537-3eab-4014-a6a0-79653a1d68e6" ChangeDateTime="11/12/2021 22:24:12" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Auxiliar].[Asunto]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Auxiliar]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AsuntoURG" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d92fcc58-da60-4dde-94b8-a8d728ea1746" ChangeDateTime="11/12/2021 22:29:58" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Mensaje].[Mensaje]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Mensaje]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Mensajee" />
+  </Operation>
+</Operations>

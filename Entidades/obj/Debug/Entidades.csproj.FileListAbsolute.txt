@@ -1,0 +1,12 @@
+C:\Users\facun\source\repos\Mensaje\Entidades\bin\Debug\Entidades.dll
+C:\Users\facun\source\repos\Mensaje\Entidades\bin\Debug\Entidades.pdb
+C:\Users\facun\source\repos\Mensaje\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\facun\source\repos\Mensaje\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\facun\source\repos\Mensaje\Entidades\obj\Debug\Entidades.dll
+C:\Users\facun\source\repos\Mensaje\Entidades\obj\Debug\Entidades.pdb
+C:\Users\facun\Desktop\proyectos\c#\Mensaje\Entidades\bin\Debug\Entidades.dll
+C:\Users\facun\Desktop\proyectos\c#\Mensaje\Entidades\bin\Debug\Entidades.pdb
+C:\Users\facun\Desktop\proyectos\c#\Mensaje\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\facun\Desktop\proyectos\c#\Mensaje\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\facun\Desktop\proyectos\c#\Mensaje\Entidades\obj\Debug\Entidades.dll
+C:\Users\facun\Desktop\proyectos\c#\Mensaje\Entidades\obj\Debug\Entidades.pdb

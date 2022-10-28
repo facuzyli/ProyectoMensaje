@@ -1,0 +1,10 @@
+C:\Users\facun\source\repos\Mensaje\MensajeDB\bin\Debug\MensajeDB.dacpac
+C:\Users\facun\source\repos\Mensaje\MensajeDB\bin\Debug\MensajeDB.dll
+C:\Users\facun\source\repos\Mensaje\MensajeDB\bin\Debug\MensajeDB.pdb
+C:\Users\facun\source\repos\Mensaje\MensajeDB\obj\Debug\MensajeDB.sqlprojAssemblyReference.cache
+C:\Users\facun\source\repos\Mensaje\MensajeDB\obj\Debug\Model.xml
+C:\Users\facun\source\repos\Mensaje\MensajeDB\obj\Debug\refactor.xml
+C:\Users\facun\source\repos\Mensaje\MensajeDB\obj\Debug\postdeploy.sql
+C:\Users\facun\source\repos\Mensaje\MensajeDB\obj\Debug\predeploy.sql
+C:\Users\facun\source\repos\Mensaje\MensajeDB\obj\Debug\MensajeDB.dll
+C:\Users\facun\source\repos\Mensaje\MensajeDB\obj\Debug\MensajeDB.pdb
